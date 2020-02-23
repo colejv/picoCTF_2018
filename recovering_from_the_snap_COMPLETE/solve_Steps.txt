@@ -1,0 +1,11 @@
+ran foremost 
+$ foremost animals.dd
+
+then changed directory into "output"
+$ cd output
+
+then changed in jpg directory
+$ cd jpg
+
+then ran eye of gnome to llok at all of the jpegs
+$ eog *.jpg

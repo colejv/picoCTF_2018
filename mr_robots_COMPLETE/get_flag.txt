@@ -1,0 +1,1 @@
+# just look at the /robots.txt file, then look at the "disallow" URL

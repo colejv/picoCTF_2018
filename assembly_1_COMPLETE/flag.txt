@@ -1,0 +1,4 @@
+# Copy the value in and just go through the assembly commands adding, subtracting, comparing, jumping, etc
+# the flag is whatever is returned
+
+# 0x161

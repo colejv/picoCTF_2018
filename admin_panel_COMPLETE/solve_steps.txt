@@ -1,0 +1,6 @@
+download the pcap file; open in wireshark
+$ wireshark data.pcap
+
+find the post to login, follow the TCP stream, read the user:admin password
+
+picoCTF{n0ts3cur3_b186631d}

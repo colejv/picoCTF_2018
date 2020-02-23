@@ -1,0 +1,2 @@
+# go to "http://2018shell.picoctf.com:14664" add a new cookie
+# call it "admin" and add "1" as the value, click on "FLAG"

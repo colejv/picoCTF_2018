@@ -1,0 +1,6 @@
+# did nc and copied the encrypted message
+# went to https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx
+# attempted to crack the key
+# used "flag" as the key and found the flag
+
+picoCTF{v1gn3r3_c1ph3rs_ar3n7_bad_5352bf72}

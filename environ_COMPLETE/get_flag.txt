@@ -1,0 +1,1 @@
+log in to shell, then run the 'env | grep -oE "picoCTF{.*}" '
